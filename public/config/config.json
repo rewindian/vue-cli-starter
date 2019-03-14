@@ -1,0 +1,5 @@
+{
+    "appDomainRoot": "http://css.huijiaoyun.com/zhxy/app_dev",
+    "baseApi": "http://zhxy.yangchenhao.cn/",
+    "ticketValidUrl":"http://zhxy.yangchenhao.cn/workflow/validTicket"
+}
